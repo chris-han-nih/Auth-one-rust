@@ -1,0 +1,9 @@
+[package]
+name = "auth-one-rust"
+version = "0.1.0"
+authors = ["chris han <chris.han@example.com>"]
+edition = "2018"
+
+[dependencies]
+actix-web = "4.0"
+actix-rt = "2.5"
